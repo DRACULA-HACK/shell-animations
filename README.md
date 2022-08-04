@@ -45,5 +45,11 @@ apt install git
 git clone https://github.com/DRACULA-HACK/shell-animations
 #
 cd shell-animations
+sh
+bash anime.sh
 #
+................................................................................................................................................................................................
+#
+By master-hack
 
+https://wa.me//+916235369260
