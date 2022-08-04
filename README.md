@@ -11,6 +11,6 @@ http://artscene.textfiles.com/vt100/
 And fore running the animation you can use
  The packages
 
-$ curl
+# curl
 
-$ pv
+# pv
