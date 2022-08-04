@@ -63,6 +63,7 @@ echo -e $pink "
 
           10 cow boon
 
+           0 exit
           "
  read -p "type The Number Of animation :- " inm
 
