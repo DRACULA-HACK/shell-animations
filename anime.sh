@@ -64,7 +64,7 @@ echo -e $pink "
           10 cow boon
 
           "
- read -p $blue "type The Number Of animation :- " inm
+ read -p "type The Number Of animation :- " inm
 
 
 if [[ $inm -eq 1 ]]; then
