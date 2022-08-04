@@ -3,7 +3,7 @@ clear
 # bash it hehe am master
 # install the package bro
 apt update && upgrade
-apt install crul
+apt install curl
 apt install pv
 # apt install nothing hehe
 # hehe I wana add same colour
