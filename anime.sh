@@ -6,7 +6,7 @@ apt update && upgrade
 apt install crul
 apt install pv
 # apt install nothing hehe
-# I wana add same colour
+# hehe I wana add same colour
 
 red='\033[1;31m'
 rset='\033[0m'
@@ -32,9 +32,10 @@ sleep 5
 echo -e $red " WELLCOME TO THE ANIMATION'S "
 
 sleep 10
-
+# yap its me hehe
 clear
-
+echo -e $clyan "
+         Created by MASTER-HACK
 echo -e $pink "
 
 
