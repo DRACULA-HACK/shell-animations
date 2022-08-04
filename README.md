@@ -34,3 +34,16 @@ The curl package provides bindings to the libcurl C library for R. The package s
 
 For more
 https://cran.r-project.org/web/packages/curl/vignettes/intro.html#:~:text=The%20curl%20package%20provides%20bindings,recommended%20to%20use%20this%20package.
+
+
+# Installation
+#
+apt update && apt upgrade
+#
+apt install git
+#
+git clone https://github.com/DRACULA-HACK/shell-animations
+#
+cd shell-animations
+#
+
