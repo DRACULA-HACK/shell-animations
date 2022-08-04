@@ -35,7 +35,7 @@ sleep 10
 # yap its me hehe
 clear
 echo -e $clyan "
-         Created by MASTER-HACK
+         Created by MASTER-HACK "
 echo -e $pink "
 
 
